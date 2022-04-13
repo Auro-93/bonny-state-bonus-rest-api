@@ -82,11 +82,10 @@ Running the application requires Web Server (e.g., Apache) PHP and MySQL to be i
     "db_name" => "state_bonus",
     "username" => "root",
     "password" => "1234",
+
+    ];
+
    ```
-
-];
-
-```
 
 3. To recreate the database follow the scheme you can find in the file <strong>migration_script.sql </strong>
 
@@ -102,5 +101,6 @@ Project Repository: [bonny-state-bonus-rest-api](https://github.com/Auro-93/bonn
 
 Portfolio: [aurodev-web-developer-portfolio](https://aurodev-web-developer-portfolio.netlify.app/)
 
+```
 
 ```
