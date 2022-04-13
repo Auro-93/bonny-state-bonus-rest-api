@@ -44,6 +44,8 @@ class Bonus
        if(!empty($wheres)){
            $query .= " WHERE " . implode(" AND ",  $wheres); 
        }
+
+       $query .= " ORDER BY a.sold_at DESC";
   
         
         $stmt = $this->conn->prepare($query);
