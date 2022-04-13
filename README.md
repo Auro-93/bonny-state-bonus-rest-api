@@ -100,7 +100,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Repository: [bonny-state-bonus-rest-api](https://github.com/Auro-93/bonny-state-bonus-rest-api)
 
 Portfolio: [aurodev-web-developer-portfolio](https://aurodev-web-developer-portfolio.netlify.app/)
-
-```
-
-```
