@@ -73,7 +73,7 @@ Running the application requires Web Server (e.g., Apache) PHP and MySQL to be i
    git clone https://github.com/Auro-93/bonny-state-bonus-rest-api.git
    ```
 
-2. Create a config.php file in the project root, following the pattern that you can find in the config.example.php file. Replace the example values ​​with your own data. For example:
+2. Create a <strong>config.php</strong> file in the project root, following the pattern that you can find in the <strong>config.example.php</strong> file. Replace the example values ​​with your own data. For example:
 
    ```sh
    return [
